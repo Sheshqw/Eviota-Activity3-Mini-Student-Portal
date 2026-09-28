@@ -18,7 +18,7 @@ export default function App() {
   return (
     <>
       <header className="topbar">
-        <Link to="/" className="brand">Mini Student Portal · Cubero</Link>
+        <Link to="/" className="brand">Mini Student Portal · Bungcaras</Link>
         <nav aria-label="Main">
           <NavLink to="/" end>Home</NavLink>
           <NavLink to="/register">Register</NavLink>
